@@ -1,0 +1,21 @@
+.para {
+    text-align: justify;
+    line-height: 30px;
+}
+
+.loader {
+    width: 250px;
+    position: absolute;
+    left: 45%;
+    top: 35%;
+    z-index: 20;
+}
+
+.fix-height {
+    min-height: 100vh;
+}
+
+.detail-para {
+    text-indent: 50px;
+    line-height: 30px;
+}
